@@ -9,6 +9,5 @@ A. Robicquet, A. Sadeghian, A. Alahi, S. Savarese, Learning Social Etiquette: Hu
 
 Examples of their annotation (As you can see, they are prone to annotation errors):
 
-<img src="https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone.JPG" width="200">
-<img src="https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone_2.JPG" width="200">
+<img src="https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone.JPG" width="500" <img src="https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone_2.JPG" width="500">
 

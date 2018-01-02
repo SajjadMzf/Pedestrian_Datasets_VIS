@@ -8,7 +8,6 @@ Their Publication:
 A. Robicquet, A. Sadeghian, A. Alahi, S. Savarese, Learning Social Etiquette: Human Trajectory Prediction In Crowded Scenes in European Conference on Computer Vision (ECCV), 2016.
 
 Examples of their annotation (As you can see, they are prone to annotation errors):
-Example1             |  Example2
-:-------------------------:|:-------------------------:
-![example of SDD](https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone.JPG)
-|![example of SDD](https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone_2.JPG)
+|Example1             |  Example2|
+|:-------------------------:|:-------------------------:|
+| ![example of SDD](https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone.JPG) | ![example of SDD](https://github.com/SajjadMzf/Pedestrian_Datasets_VIS/blob/master/Stanford_Drone_Visualization/stanford_drone_2.JPG) |
